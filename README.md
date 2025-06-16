@@ -52,10 +52,9 @@ I am an undergraduate student in Computer Science at the **Universidade Católic
 --
 
 ## 📞 Contacts
-<div style="display: inline_block">
+<a href="mailto:george.emannuelcarvalho@gmail.com" target="_blank">
   <img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  <span> georgeemannuelcarvalho@gmail.com </span>
-</div>
+</a>
 <br>
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/george-guedes-124394224/" target="_blank">
@@ -64,7 +63,7 @@ I am an undergraduate student in Computer Science at the **Universidade Católic
 </div>
 <br>
 <div style="display: inline_block">
-  <a href="https://github.com/seunome" target="_blank">
+  <a href="https://github.com/guedesgeorge" target="_blank">
     <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
