@@ -56,10 +56,12 @@ I am an undergraduate student in Computer Science at the **Universidade Católic
   <img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <br>
+
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/george-guedes-124394224/" target="_blank">
     <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  
 </div>
 <br>
 <div style="display: inline_block">
