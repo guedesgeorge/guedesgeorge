@@ -1,9 +1,6 @@
 # Hello 👋
 
-I am an undergraduate student in Computer Science at the Federal University of Mato Grosso do Sul, passionate about software development, automation, and robotics.
-
-## Academic Experiences
-
+I am an undergraduate student in Computer Science at the **Universidade Católica Dom Bosco (UCDB)**, passionate about software development
 
 
 ## 🛠️ Skills  
