@@ -3,7 +3,7 @@
 I am an undergraduate student in Computer Science at the **Universidade Católica Dom Bosco (UCDB)**, passionate about software development
 
 
-## 🛠️ Skills  
+
 
 ### ⚙️ Hard Skills  
 
