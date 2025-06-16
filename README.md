@@ -41,5 +41,18 @@ I am an undergraduate student in Computer Science at the **Universidade Católic
 
 
 
-## 📚 Education  
+## 📚 Education
 
+- 🎓 **BSc in Computer Science** – Universidade Católica Dom Bosco (UCDB) *(Expected 2027)*
+### 🚀 Bootcamps
+
+- **Java Developer Bootcamp** – Rocketseat
+- **Node.js Developer Bootcamp** – Rocketseat
+
+---
+
+## 📞 Contacts
+
+- 📧 Email: seuemail@email.com
+- 💼 LinkedIn: [linkedin.com/in/seunome](https://www.linkedin.com/in/george-guedes-124394224/)
+- 🧑‍💻 GitHub: [github.com/seunome](https://github.com/seunome)
