@@ -49,10 +49,22 @@ I am an undergraduate student in Computer Science at the **Universidade Católic
 - **Java Developer Bootcamp** – Rocketseat
 - **Node.js Developer Bootcamp** – Rocketseat
 
----
+--
 
 ## 📞 Contacts
-
-- 📧 Email: seuemail@email.com
-- 💼 LinkedIn: [linkedin.com/in/seunome](https://www.linkedin.com/in/george-guedes-124394224/)
-- 🧑‍💻 GitHub: [github.com/seunome](https://github.com/seunome)
+<div style="display: inline_block">
+  <img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <span> georgeemannuelcarvalho@gmail.com </span>
+</div>
+<br>
+<div style="display: inline_block">
+  <a href="https://www.linkedin.com/in/george-guedes-124394224/" target="_blank">
+    <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+<br>
+<div style="display: inline_block">
+  <a href="https://github.com/seunome" target="_blank">
+    <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
