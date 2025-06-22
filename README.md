@@ -4,6 +4,11 @@ I am an undergraduate student in Computer Science at the **Universidade Católic
 
 
 
+![image](https://github.com/user-attachments/assets/85cd5838-6022-4d11-b505-e9596d6abf2a)
+
+
+
+
 
 ### ⚙️ Hard Skills  
 
